@@ -1,2 +1,2 @@
 # DIO_desafios_python
-Repositório relacionados aos desafios de Python do curso de Formação Python Developer na DIO (Digital Innovation One)
+Repositório relacionado aos desafios de Python do curso de Formação Python Developer na DIO (Digital Innovation One)
